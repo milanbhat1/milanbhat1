@@ -1,15 +1,15 @@
 # 💫 About Me:
-●  3rd year Electronics & Communication Engineering student at The National Institute of Engineering, Mysuru (CGPA: 8.03)<br>
+-  3rd year Electronics & Communication Engineering student at The National Institute of Engineering, Mysuru (CGPA: 8.03)<br>
 
-●  I’m deeply passionate about the Space sector and aspire to apply everything I learn now(in Undergrad) and in the future toward advancing it.<br>
+-  I’m deeply passionate about the Space sector and aspire to apply everything I learn now(in Undergrad) and in the future toward advancing it.<br>
 
-●  I also enjoy exploring Quantum Mechanics<br>
+-  I also enjoy exploring Quantum Mechanics<br>
 
-●  Interested in Circuit Design, IoT, and AI-driven Electronics<br>
+-  Interested in Circuit Design, IoT, and AI-driven Electronics<br>
 
-●  Enjoy building hands-on projects that merge hardware, simulation, and real-time systems<br>
+-  Enjoy building hands-on projects that merge hardware, simulation, and real-time systems<br>
 
-●  Aspiring to contribute to Space and Advanced Communication Technologies
+-  Aspiring to contribute to Space and Advanced Communication Technologies
 
 
 ## 🌐 Socials:
