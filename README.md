@@ -6,7 +6,7 @@
 MilanBhat:
   title: "ECE Undergrad | Space & QC Enthusiast"
 
-  summary: |
+  summary: 
     • 3rd year Electronics & Communication Engineering student at The National Institute of Engineering, Mysuru (CGPA: 8.03).
 
     • Deeply passionate about the Space sector; aspire to apply all my learning toward advancing it—in my future.
@@ -48,7 +48,7 @@ MilanBhat:
 
   contact:
     - Gmail: "bhatmilan29@gmail.com"
-    - LinkedIn: "https://linkedin.com/in/milan-bhat-09562a2ba
+    - LinkedIn: "https://linkedin.com/in/milan-bhat-09562a2ba"
     - Location: "Mysore, Karnataka, India"
 
 ```
@@ -80,14 +80,13 @@ MilanBhat:
 ---
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=milanbhat1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=milanbhat1&theme=dark&hide_border=false)<br/>
+![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanbhat1&show_icons=true&theme=dark&hide)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=milanbhat1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milanbhat1&layout=compact&theme=dark&hide)
 
----
+![Profile views](https://visitcount.itsvg.in/api?id=milanbhat1&icon=2&color=6)
 
-[![](https://visitcount.itsvg.in/api?id=milanbhat1&icon=10&color=0)](https://visitcount.itsvg.in)
+
 
 
