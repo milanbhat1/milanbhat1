@@ -7,7 +7,7 @@ MilanBhat:
   title: "ECE Undergrad | Space & QC Enthusiast"
 
   summary: 
-    • 3rd year Electronics & Communication Engineering student at The National Institute of Engineering, Mysuru (CGPA: 8.03).
+    • 3rd year Electronics & Communication Engineering student at The National Institute of Engineering, Mysuru (CGPA- 8.03).
 
     • Deeply passionate about the Space sector; aspire to apply all my learning toward advancing it—in my future.
 
@@ -85,7 +85,9 @@ MilanBhat:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milanbhat1&layout=compact&theme=dark&hide)
 
-![Profile views](https://visitcount.itsvg.in/api?id=milanbhat1&icon=2&color=6)
+![Profile views](https://komarev.com/ghpvc/?username=milanbhat1)
+
+---
 
 
 
