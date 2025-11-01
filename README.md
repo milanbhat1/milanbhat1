@@ -77,6 +77,9 @@ MilanBhat:
   ### 7. [Battery Management System using STM32](https://github.com/milanbhat1/BatteryManagementSystem-STM32) 
   This project monitors battery voltage and current, calculates State of Charge (SOC), and displays real-time values on an OLED display. Audible and visual alerts are triggered during low SOC or abnormal current conditions.
 
+  ### 8. [PARK-IT](https://github.com/milanbhat1/PARK-IT) 
+  We designed and developed PARK-IT, a smart parking management application that simplifies the parking experience. Using Figma, we created an intuitive UI/UX that enables users to locate, reserve, and navigate to available parking spots in real time. Our design focuses on improving user convenience through live availability updates, smooth check-in/check-out flow, and integrated digital payment options.
+
 ---
 
 # GitHub Stats:
