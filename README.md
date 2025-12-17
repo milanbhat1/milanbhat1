@@ -58,6 +58,18 @@ MilanBhat:
 ---
 ##  ENGG Projects (Selected)
 
+### 🔹 Automatic Survey Machine (2025) - MINOR PROJECT
+🔗 https://github.com/milanbhat1/automatic-survey-machine  
+Developed a low-cost autonomous survey robot integrating ultrasonic-based obstacle detection, DC motor control, and real-time gyroscope data acquisition. The system visualizes terrain orientation through a live web dashboard using WebSockets and Plotly, enabling real-time motion and slope analysis.
+
+---
+
+### 🔹 QAM Modulation and Demodulation using ESP32 (2025)
+🔗 https://github.com/milanbhat1/qam-modulation-esp32  
+Implemented a 16-QAM digital communication system using two ESP32 microcontrollers. The project performs bit-to-symbol mapping, I–Q based modulation, wireless transmission using ESP-NOW, and nearest-neighbor demodulation at the receiver, providing a practical realization of communication system theory.
+
+---
+
 ### 🔹 Cardio Track – Low Power ECG Signal Acquisition System (2025)
 🔗 https://github.com/milanbhat1/low-power-ecg-circuit  
 Designed, simulated, and implemented a low-power analog ECG signal acquisition system capable of capturing clear P, QRS, and T waveforms. The project focuses on low-noise amplification, filtering, and real-time hardware validation for biomedical applications.
@@ -73,12 +85,6 @@ Developed an ESP8266-based smart door system with password-protected access, rea
 ### 🔹 FIFO Block Design using Verilog HDL (2025)
 🔗 https://github.com/milanbhat1/FIFO  
 Designed and simulated a synchronous FIFO architecture using Verilog HDL. The project emphasizes reliable data transfer, hazard-free read/write operations, and clean modular design suitable for digital and VLSI applications.
-
----
-
-### 🔹 Plastic Segregation using Computer Vision (2024)
-🔗 https://github.com/milanbhat1/plastic-waste-detection-opencv  
-Built a real-time plastic waste detection and classification system using YOLO, OpenCV, and Python. The system automates waste segregation and achieved high accuracy in real-world testing scenarios.
 
 ---
 
