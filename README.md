@@ -65,7 +65,7 @@ Developed a low-cost autonomous survey robot integrating ultrasonic-based obstac
 ---
 
 ### 🔹 QAM Modulation and Demodulation using ESP32 (2025)
-🔗 https://github.com/milanbhat1/qam-modulation-esp32  
+🔗 https://github.com/milanbhat1/16qam_esp32 
 Implemented a 16-QAM digital communication system using two ESP32 microcontrollers. The project performs bit-to-symbol mapping, I–Q based modulation, wireless transmission using ESP-NOW, and nearest-neighbor demodulation at the receiver, providing a practical realization of communication system theory.
 
 ---
