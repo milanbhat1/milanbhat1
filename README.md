@@ -105,10 +105,6 @@ This repository contains **all my undergraduate projects**, including circuit de
 
 # GitHub Stats:
 
-![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanbhat1&show_icons=true&theme=dark&hide)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milanbhat1&layout=compact&theme=dark&hide)
-
 ![Profile views](https://komarev.com/ghpvc/?username=milanbhat1)
 
 ---
