@@ -4,9 +4,9 @@
 
 ```yaml
 MilanBhat:
-  title: "ECE Undergrad | Space & QC Enthusiast"
+  Title: "ECE Undergrad | Space & QC Enthusiast"
 
-  summary: 
+  Summary: 
     • 3rd year Electronics & Communication Engineering student at The National Institute of Engineering, Mysuru (CGPA- 8.03).
 
     • Deeply passionate about the Space sector; aspire to apply all my learning toward advancing it—in my future.
@@ -17,7 +17,7 @@ MilanBhat:
 
     • Aspiring to contribute to Space and Advanced Communication Technologies.
 
-  education:
+  Education:
     - "Bachelor's in Electronics and Communication Engineering"
     - "The National Institute of Engineering, Mysuru"
     - 2023 - 2027
@@ -29,11 +29,11 @@ MilanBhat:
       workshop. Helped them come up with ideas.
       • Conducted a session for students on how to create business and revenue models.
      
-  - Deccterous NIE, Member
+  - Deccterous NIE: Member
       Actively participated in multiple technical competitions, prototype building events, paper
       presentations, and non-technical activities.
 
-  - NIE IEEE Student Branch, Member
+  - NIE IEEE Student Branch: Member
       Engaged in IEEE activities and events, enhancing technical skills and professional network.
 
   skills:
