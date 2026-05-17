@@ -4,8 +4,8 @@
 
 **ECE Undergrad**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-milan--bhat-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/milan-bhat)
-[![Gmail](https://img.shields.io/badge/Email-bhatmilan2029@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhatmilan2029@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milan--Bhat-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-bhat-09562a2ba/)
+[![Gmail](https://img.shields.io/badge/Email-bhatmilan2029@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhatmilan29@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/milanbhat1?label=Follow&style=social)](https://github.com/milanbhat1)
 [![Profile Views](https://komarev.com/ghpvc/?username=milanbhat1&color=blueviolet&style=flat)](https://github.com/milanbhat1)
 
