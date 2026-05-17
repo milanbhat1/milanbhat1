@@ -1,162 +1,121 @@
+<div align="center">
+
+# Milan Bhat
+
+**ECE Undergrad**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-milan--bhat-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/milan-bhat)
+[![Gmail](https://img.shields.io/badge/Email-bhatmilan2029@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhatmilan2029@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/milanbhat1?label=Follow&style=social)](https://github.com/milanbhat1)
+[![Profile Views](https://komarev.com/ghpvc/?username=milanbhat1&color=blueviolet&style=flat)](https://github.com/milanbhat1)
+
+</div>
+
+---
+
+## About Me
+
+3rd-year Electronics & Communication Engineering student at **The National Institute of Engineering, Mysuru** (CGPA: 8.10/10), working at the intersection of quantum-safe cryptography, satellite systems, and embedded hardware.
+
+My research focuses on making space communication quantum-resistant — benchmarking NIST-standard CRYSTALS-Kyber across Python, C, and ESP32 for real-world satellite telemetry. I care about work that touches real hardware and has real stakes.
+
+Beyond cryptography, I build things: ECG circuits, FIFO memory in Verilog, IoT security systems, QAM modems on ESP32s.
+
+Currently exploring VLSI design and advanced signal processing, and preparing for research and industry roles in the space and semiconductor sectors.
+
+---
+
+## Awards & Recognition
+
+**Best Oral Presentation — NSSS-2026** (ISRO & NESAC, Shillong)
+Research on Post-Quantum Cryptography for Satellite Telemetry. Award presented by Padma Shri A. S. Kiran Kumar, Former Chairman of ISRO.
+
+**Samsung Fellowship — ISWDP Cohort 7**
+Selected from 4,700+ applicants for semiconductor device & process technology training at IISc, in collaboration with Synopsys Inc. & SSIR.
+
+**Best Project Award — Track 5**
+NIE Student Research Symposium, Apr 2025.
+
+---
+
+## Featured Research
+
+### Post-Quantum Cryptography for Satellite Telemetry
+*Presented at NSSS-2026, ISRO & NESAC*
+
+Implemented CRYSTALS-Kyber (NIST-standardized lattice-based KEM) with AES-256 hybrid encryption across Python, C, and ESP32 for quantum-resistant satellite telemetry security.
+
+- C implementation: 1.16 ms — 28% faster than Python (1.63 ms)
+- ESP32 embedded: 11.27 ms — validated for 1 Hz CanSat telemetry
+- Benchmarked Kyber512 / 768 / 1024 security levels across all platforms
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [16-QAM ESP32 Modem](https://github.com/milanbhat1/16qam_esp32) | Full 16-QAM digital comms system: bit mapping, I-Q modulation, ESP-NOW transmission, demodulation | ESP32, C++ |
+| [Cardio Track — ECG Circuit](https://github.com/milanbhat1/low-power-ecg-circuit) | Low-power ECG acquisition circuit with instrumentation amp and active LPF. Verified in LTspice, validated on DSO | Analog Design, LTspice |
+| [FIFO Buffer in Verilog](https://github.com/milanbhat1/FIFO) | 16x8 synchronous FIFO with hazard-free read/write, synthesized in Cadence Virtuoso | Verilog HDL, Cadence |
+| [BMS on STM32](https://github.com/milanbhat1/BatteryManagementSystem-STM32) | Battery SOC monitoring with OLED display and protection logic | STM32, C++ |
+| [IoT Smart Door System](https://github.com/milanbhat1/iot-door-security-system) | ESP8266 door security with Telegram alerts and web dashboard | ESP8266, Python |
+| [Automatic Survey Robot](https://github.com/milanbhat1/automatic-survey-machine) | Autonomous survey robot with gyroscope terrain measurement and live WebSocket dashboard | Arduino, Python, Plotly |
+
+All undergraduate projects: [UG Engineering Projects Repository](https://github.com/milanbhat1/UG-Engineering-Projects)
+
+---
+
+## Tech Stack
+
+**Cryptography & Security** — CRYSTALS-Kyber, Post-Quantum KEM, AES-256, liboqs, OpenSSL, PyCryptodome
+
+**Hardware & Embedded** — ESP32, ESP8266, STM32, Arduino, Circuit Design
+
+**Languages** — C, Python, Verilog, MATLAB, Embedded C/C++
+
+**Design & Simulation** — Cadence Virtuoso, LTspice, OpenRocket
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanbhat1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milanbhat1&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=milanbhat1&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milanbhat1/milanbhat1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milanbhat1/milanbhat1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/milanbhat1/milanbhat1/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Hi there, I'm Milan 👋
+---
 
-### ✨ About Me
+## Education
 
-```yaml
-MilanBhat:
-  Title: "ECE Undergrad | Space & Quantum Security Researcher"
+**B.E. in Electronics & Communication Engineering**
+The National Institute of Engineering, Mysuru · Sep 2023 – Apr 2027 · CGPA: 8.10/10
 
-  Summary:
-    • 3rd year Electronics & Communication Engineering student at
-      The National Institute of Engineering, Mysuru (CGPA: 8.10/10.0).
-
-    • Recipient of the Samsung Fellowship (ISWDP Cohort 7) — selected
-      from 4,700+ applicants for semiconductor device & process technology
-      training at IISc, in collaboration with Synopsys Inc. & SSIR.
-
-    • Best Oral Presentation Award at NSSS-2026 (ISRO & NESAC, Shillong)
-      for research on Post-Quantum Cryptography for Satellite Telemetry —
-      presented to scientists from PRL, SAC, URSC, IIST, NRSC, and more.
-      Award presented by Padma Shri A. S. Kiran Kumar (Former ISRO Chairman).
-
-    • Deeply passionate about the Space sector; aspire to apply all my
-      learning toward advancing it in my future.
-
-    • Exploring Post-Quantum Cryptography, Quantum Mechanics, and
-      advanced electronic systems.
-
-    • Strong interest in Circuit Design, IoT, AI-driven Electronics, and
-      hands-on projects merging hardware, simulation, and real-time systems.
-
-  Education:
-    - "Bachelor of Engineering in Electronics & Communication Engineering"
-    - "The National Institute of Engineering, Mysuru"
-    - Sep 2023 – Apr 2027
-
-  Honors_and_Awards:
-    - "Best Oral Presentation – NSSS-2026 | ISRO & NESAC, Shillong (Feb 2026)"
-    - "Samsung Fellowship – ISWDP Cohort 7 | Selected from 4,700+ applicants (2026)"
-    - "Best Project Award – Track 5 | NIE Student Research Symposium (Apr 2025)"
-
-  College_Club_Experience:
-    - Anvaya (NIE IUCEE Student Chapter): Research & Development Lead
-        • Mentored a team of 4 to build an Air Quality Monitoring System —
-          secured 3rd place in prototype competition via a 5-day Design
-          Thinking workshop.
-        • Conducted sessions on business and revenue models for tech projects.
-        • Leads research initiatives focused on innovation & industry collaboration.
-
-    - Deccterous NIE: Member
-        Participated in technical competitions, prototype building, paper
-        presentations, and other engineering events.
-
-    - NIE IEEE Student Branch: Member
-        Engaged in IEEE activities enhancing technical skills and
-        professional network.
-
-  Technical_Skills:
-    Cryptography & Security:
-      - CRYSTALS-Kyber, Post-Quantum KEM, AES-256, liboqs, OpenSSL, PyCryptodome
-    Hardware & Embedded Systems:
-      - Arduino, ESP8266, ESP32, STM32, IoT Devices, Circuit Design
-    Programming Languages:
-      - C, Python, Verilog, MATLAB, Embedded C/C++
-    Design & Simulation Tools:
-      - Cadence Virtuoso, LTspice, OpenRocket
-    Core Competencies:
-      - Post-Quantum Cryptography, Satellite Telemetry Security,
-        Digital Communication Systems, Analog Circuit Design, VLSI,
-        Signal Processing
-
-  Interests:
-    ["Space Tech", "Quantum Computing", "Post-Quantum Cryptography",
-     "Circuit Hacking", "Books", "Chess"]
-
-  Contact:
-    Gmail:    "bhatmilan2029@gmail.com"
-    LinkedIn: "https://linkedin.com/in/milan-bhat"
-    GitHub:   "https://github.com/milanbhat1"
-    Location: "Mysore, Karnataka, India"
-```
+- R&D Lead, Anvaya (NIE IUCEE Student Chapter) — led team to 3rd place in prototype competition
+- Member, Deccterous NIE · Member, NIE IEEE Student Branch
 
 ---
 
-# Projects
+## Contact
 
----
+Open to research collaborations, internships, and roles in space tech, quantum security, and embedded systems.
 
-## Research Projects
-
-### 🔹 Post-Quantum Cryptography for Satellite Telemetry (2025–2026)
-🔗 *(Research presented at NSSS-2026, ISRO & NESAC)*
-
-Implemented NIST-standardized **CRYSTALS-Kyber** (lattice-based KEM) with **AES-256 hybrid encryption** across Python (liboqs), C (OpenSSL), and ESP32 (240 MHz, 520 KB SRAM) platforms for quantum-resistant satellite telemetry security.
-
-Benchmarked Kyber512/768/1024 security levels — achieved **28% performance improvement** with C (1.16 ms) vs Python (1.63 ms); validated ESP32 embedded feasibility (11.27 ms) for 1 Hz CanSat telemetry with platform-specific deployment strategies.
-
-> **Best Oral Presentation – PS-5 (Enabling Technologies for Space Exploration)** at the 23rd National Space Science Symposium, chaired by ISRO Scientist Raghu Ningthoujam. Award presented by **Padma Shri A. S. Kiran Kumar** (Former ISRO Chairman).
-
----
-
-## Engineering Projects (Selected)
-
-### 🔹 Automatic Survey Machine (2025)
-https://github.com/milanbhat1/automatic-survey-machine
-
-Built a low-cost autonomous survey robot integrating ultrasonic-based obstacle avoidance and gyroscope-based terrain orientation measurement. Real-time monitoring via a web dashboard using WebSockets and Plotly for live motion and slope analysis.
-
----
-
-### 🔹 QAM Modulation and Demodulation using ESP32 (2025)
-https://github.com/milanbhat1/16qam_esp32
-
-Implemented a **16-QAM digital communication system** using two ESP32 microcontrollers. Performs bit-to-symbol mapping, I–Q modulation, wireless transmission via ESP-NOW, and nearest-neighbor demodulation — demonstrating concepts applicable to satellite telemetry.
-
----
-
-### 🔹 Cardio Track – Low Power ECG Signal Acquisition (2025)
-https://github.com/milanbhat1/low-power-ecg-circuit
-
-Designed, simulated, and implemented a low-power analog ECG acquisition circuit using an instrumentation amplifier and active low-pass filter to capture clear P, QRS, and T waveforms. Verified with LTspice and validated in real-time using a Digital Storage Oscilloscope.
-
-> **Best Project Award – Track 5**, NIE Student Research Symposium (Deccterous Club, Apr 2025)
-
----
-
-### 🔹 IoT-Based Smart Door Security & Monitoring System (2025)
-https://github.com/milanbhat1/iot-door-security-system
-
-ESP8266-based smart door system with password-protected access, real-time presence detection, and instant Telegram alerts. Integrates a web-based UI, sensors, and automated security logic for remote monitoring.
-
----
-
-### 🔹 Synchronous FIFO Buffer using Verilog HDL (2025)
-https://github.com/milanbhat1/FIFO
-
-Designed a **16×8 FIFO memory system** with hazard-free synchronized read/write operations. Simulated and synthesized in **Cadence Virtuoso** for functional verification — suitable for digital and VLSI applications.
-
----
-
-### 🔹 Battery Management System (BMS) using STM32 (2025)
-https://github.com/milanbhat1/BatteryManagementSystem-STM32
-
-Monitors battery voltage and current, estimates State of Charge (SOC), and provides real-time visualization on an OLED display. Includes protection logic with audible and visual alerts during low SOC and abnormal current conditions.
-
----
-
-## All Undergraduate Engineering Projects
-
-**UG Projects Repository:** https://github.com/milanbhat1/UG-Engineering-Projects
-
-Contains all undergraduate projects including circuit design, embedded systems, IoT, computer vision, Verilog HDL designs, and prototype-based engineering work — fully documented with code, simulations, and hardware details.
-
----
-# GitHub Stats
-![Profile views](https://komarev.com/ghpvc/?username=milanbhat1)
-
+- Email: [bhatmilan2029@gmail.com](mailto:bhatmilan2029@gmail.com)
+- LinkedIn: [linkedin.com/in/milan-bhat](https://linkedin.com/in/milan-bhat)
+- Location: Mysore, Karnataka, India
