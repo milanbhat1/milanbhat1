@@ -1,5 +1,5 @@
 ## Hi there, I'm Milan 👋
-
+![Snake animation](https://raw.githubusercontent.com/milanbhat1/milanbhat1/output/github-snake.svg)
 ### ✨ About Me
 
 ```yaml
