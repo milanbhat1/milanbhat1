@@ -1,9 +1,4 @@
 ## Hi there, I'm Milan 👋
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milanbhat1/milanbhat1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milanbhat1/milanbhat1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/milanbhat1/milanbhat1/output/github-contribution-grid-snake.svg">
-</picture>
 
 ### ✨ About Me
 
@@ -156,7 +151,11 @@ Monitors battery voltage and current, estimates State of Charge (SOC), and provi
 Contains all undergraduate projects including circuit design, embedded systems, IoT, computer vision, Verilog HDL designs, and prototype-based engineering work — fully documented with code, simulations, and hardware details.
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milanbhat1/milanbhat1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milanbhat1/milanbhat1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/milanbhat1/milanbhat1/output/github-contribution-grid-snake.svg">
+</picture>
 # GitHub Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=milanbhat1)
